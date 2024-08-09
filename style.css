@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+}
+h1{
+    color:darkred;
+}
+img{
+    width:500px ;
+    height: 500px;
+    clip-path: inset(0 0 15px 0);
+}
+
